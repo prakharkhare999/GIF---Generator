@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "netlify-cli": "^3.6.0" // Added netlify-cli as a dev dependency
   }
 }
